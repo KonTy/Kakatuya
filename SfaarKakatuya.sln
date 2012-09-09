@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfaarKakatuya", "WindowsFormsApplication1\SfaarKakatuya.csproj", "{4FF98DDB-C05B-4193-AFED-C00CBE490314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF98DDB-C05B-4193-AFED-C00CBE490314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF98DDB-C05B-4193-AFED-C00CBE490314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF98DDB-C05B-4193-AFED-C00CBE490314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF98DDB-C05B-4193-AFED-C00CBE490314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
