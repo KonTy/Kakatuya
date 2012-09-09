@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4FF98DDB-C05B-4193-AFED-C00CBE490314}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>SfaarKakatuya</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>kakatuya.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>CEC4DB94AFCB839182F35E5EFA9F5C8BDFD592CB</ManifestCertificateThumbprint>
+    <ManifestKeyFile>SfaarKakatuya_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SignAssembly>false</SignAssembly>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.1.7.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Speech">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_orb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flashkard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search and Repair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlienBonzai1_1024jpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noatun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rarang2.0 proKhela.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kalyx jukeBox.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sadh1 copy4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rarang2.1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rarang1.1 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galacticHorizon0.2.0 %28Galactic Horizon dancing in a storm%29 - Copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sadh1 copy1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galacticHorizon0.1.0-1 %28Galactic Horizon Blue Smudge v1%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sadh1 copy11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rarang0.82222i.02 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sadh1 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Futublue_1-2560x1600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sueño_Liquido-2560x1600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Above_the_Horizen-1280x960.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20000leaguesunderthesea1600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black&amp;white.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d_291.jpg" />
+    <None Include="SfaarKakatuya_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contacts.ico" />
+    <Content Include="kakatuya.ico" />
+    <Content Include="Resources\archive-24.png" />
+    <Content Include="Resources\Books.png" />
+    <Content Include="Resources\Button Square.png" />
+    <Content Include="Resources\err.png" />
+    <Content Include="Resources\errr.png" />
+    <None Include="Resources\flashkard - Copy.png" />
+    <None Include="Resources\forward - Copy.png" />
+    <Content Include="Resources\Icon1.ico" />
+    <Content Include="Resources\kakatuya.ico" />
+    <Content Include="Resources\loading.gif" />
+    <Content Include="Resources\music24.tiff" />
+    <Content Include="Resources\Narrating.tiff" />
+    <None Include="Resources\narration completed 2.png" />
+    <None Include="Resources\narration completed.png" />
+    <Content Include="Resources\NarratLoadin.gif" />
+    <Content Include="Resources\narrator.png" />
+    <None Include="Resources\noatun - Copy.png" />
+    <None Include="Resources\Pause - Copy.png" />
+    <Content Include="Resources\paused loader..png" />
+    <Content Include="Resources\paused.png" />
+    <None Include="Resources\Play - Copy.png" />
+    <Content Include="Resources\rate btn.png" />
+    <None Include="Resources\Search and Repair - Copy.png" />
+    <Content Include="Resources\Settings.png" />
+    <None Include="Resources\Stop - Copy.png" />
+    <None Include="Resources\Stop7.png" />
+    <Content Include="Resources\stopped.png" />
+    <Content Include="Resources\stting rate.PNG" />
+    <Content Include="Resources\vol btn.png" />
+    <Content Include="Resources\write something.png" />
+    <None Include="Resources\theWordIcon.png" />
+    <None Include="Resources\sayer.png" />
+    <None Include="Resources\the sayer.png" />
+    <None Include="Resources\document.png" />
+    <None Include="Resources\Play2.png" />
+    <None Include="Resources\Button Play.png" />
+    <None Include="Resources\noatun1.png" />
+    <None Include="Resources\Play1.png" />
+    <None Include="Resources\32_32x32.png" />
+    <None Include="Resources\27_32x32.png" />
+    <None Include="Resources\33_32x32.png" />
+    <None Include="Resources\iPlay.png" />
+    <None Include="Resources\VNotes.png" />
+    <None Include="Resources\TuneWiki.png" />
+    <None Include="Resources\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
