@@ -65,7 +65,7 @@ namespace WindowsFormsApplication1
         }
         private void welcome()
         {
-            speaker.Speak("Welcome to Kaakatuwa. A text to speech app for you by Khan Nafee M Sadh from nafSadh.org");
+            speaker.Speak("Welcome to Kaakatuya. A text to speech app for you by Khan 'Sadh' Mostafa from Sfaar.net");
         }
         private void reader()
         {
@@ -313,8 +313,14 @@ namespace WindowsFormsApplication1
         {
             openFileDialog1.Filter = "Web Document | *.htm; *.html";
             openFileDialog1.ShowDialog();
-            textToRead.Text = Form1.GetInnerHtmltext(File.ReadAllText(openFileDialog1.FileName));
+            try
+            {
+              textToRead.Text = Form1.GetInnerHtmltext(File.ReadAllText(openFileDialog1.FileName));
+            }
+            catch (Exception)
+            {
 
+            }
         }
         public static string GetInnerHtmltext(string data)
         {
