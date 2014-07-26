@@ -167,7 +167,6 @@
       this.textBox1.Text = "Kakatuya Narrator\r\n\r\nA text narrator tool built on .Net framework. Available for\r" +
     "\ndownload at https://sourceforge.net/p/kakatuya/\r\n\r\nnafSadh (C) 2008~2014\r\nhttp:" +
     "//nafSadh.com";
-      this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
       // 
       // button2
       // 
@@ -180,7 +179,7 @@
       this.button2.Name = "button2";
       this.button2.Size = new System.Drawing.Size(301, 37);
       this.button2.TabIndex = 0;
-      this.button2.Text = "কাকাতুয়া";
+      this.button2.Text = "Kakatuya";
       this.button2.UseVisualStyleBackColor = false;
       // 
       // menuStrip
@@ -295,7 +294,7 @@
       this.Read.Padding = new System.Windows.Forms.Padding(4);
       this.Read.RightToLeftAutoMirrorImage = true;
       this.Read.Size = new System.Drawing.Size(52, 52);
-      this.Read.Text = "toolStripButton1";
+      this.Read.Text = "Narrate";
       this.Read.Click += new System.EventHandler(this.read_Click);
       // 
       // Stop
@@ -307,7 +306,8 @@
       this.Stop.Name = "Stop";
       this.Stop.Padding = new System.Windows.Forms.Padding(4);
       this.Stop.Size = new System.Drawing.Size(52, 52);
-      this.Stop.Text = "toolStripButton1";
+      this.Stop.Text = "Stop";
+      this.Stop.ToolTipText = "Stop";
       this.Stop.Click += new System.EventHandler(this.Stop_Click);
       // 
       // Pause
@@ -319,7 +319,8 @@
       this.Pause.Name = "Pause";
       this.Pause.Padding = new System.Windows.Forms.Padding(4);
       this.Pause.Size = new System.Drawing.Size(44, 52);
-      this.Pause.Text = "toolStripButton2";
+      this.Pause.Text = "Pause";
+      this.Pause.ToolTipText = "Pause";
       this.Pause.Click += new System.EventHandler(this.Pause_Click);
       // 
       // Resume
@@ -331,7 +332,8 @@
       this.Resume.Name = "Resume";
       this.Resume.Padding = new System.Windows.Forms.Padding(4);
       this.Resume.Size = new System.Drawing.Size(44, 52);
-      this.Resume.Text = "toolStripButton1";
+      this.Resume.Text = "Resume";
+      this.Resume.ToolTipText = "Resume";
       this.Resume.Click += new System.EventHandler(this.Resume_Click);
       // 
       // highliteTxt
