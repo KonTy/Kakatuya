@@ -177,7 +177,7 @@ namespace WindowsFormsApplication1
                 case BarStatus.Idle:
                     statusBar("Put some text to narrate.", Color.Transparent,
                         global::WindowsFormsApplication1.Properties.Resources.write_something,
-                        global::WindowsFormsApplication1.Properties.Resources.Kakatuya);
+                        global::WindowsFormsApplication1.Properties.Resources.kakatuya48px);
                     return;
                 case BarStatus.Complete:
                     statusBar("Narration Completed.", Color.Transparent,
@@ -347,8 +347,6 @@ namespace WindowsFormsApplication1
                     return;
 
                 default: return;
-
-
             }
         }
     }

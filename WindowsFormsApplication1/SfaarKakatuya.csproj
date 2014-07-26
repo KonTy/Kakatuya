@@ -12,7 +12,7 @@
     <AssemblyName>SfaarKakatuya</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ApplicationIcon>kakatuya.ico</ApplicationIcon>
+    <ApplicationIcon>kakatuya-icon.ico</ApplicationIcon>
     <ManifestCertificateThumbprint>CEC4DB94AFCB839182F35E5EFA9F5C8BDFD592CB</ManifestCertificateThumbprint>
     <ManifestKeyFile>SfaarKakatuya_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
@@ -94,18 +94,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -120,9 +120,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Search and Repair.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\AlienBonzai1_1024jpg.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\noatun.png" />
@@ -143,9 +140,6 @@
     <None Include="Resources\rarang2.0 proKhela.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\kalyx jukeBox.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\sadh1 copy4.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -155,13 +149,7 @@
     <None Include="Resources\rarang1.1 copy.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\galacticHorizon0.2.0 %28Galactic Horizon dancing in a storm%29 - Copy.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\sadh1 copy1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\galacticHorizon0.1.0-1 %28Galactic Horizon Blue Smudge v1%29.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\sadh1 copy11.jpg" />
@@ -173,41 +161,24 @@
     <None Include="Resources\sadh1 copy.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Futublue_1-2560x1600.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Sueño_Liquido-2560x1600.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Above_the_Horizen-1280x960.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\20000leaguesunderthesea1600.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\black&amp;white.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Background02.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3d_291.jpg" />
     <None Include="SfaarKakatuya_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Contacts.ico" />
+    <Content Include="kakatuya-icon.ico" />
     <Content Include="kakatuya.ico" />
     <Content Include="Resources\archive-24.png" />
-    <Content Include="Resources\Books.png" />
     <Content Include="Resources\Button Square.png" />
     <Content Include="Resources\err.png" />
     <Content Include="Resources\errr.png" />
     <None Include="Resources\flashkard - Copy.png" />
     <None Include="Resources\forward - Copy.png" />
-    <Content Include="Resources\Icon1.ico" />
+    <None Include="Resources\kakatuya.48px.png" />
     <Content Include="Resources\kakatuya.ico" />
     <Content Include="Resources\loading.gif" />
-    <Content Include="Resources\music24.tiff" />
     <Content Include="Resources\Narrating.tiff" />
     <None Include="Resources\narration completed 2.png" />
     <None Include="Resources\narration completed.png" />

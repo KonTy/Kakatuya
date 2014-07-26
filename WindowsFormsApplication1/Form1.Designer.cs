@@ -134,31 +134,33 @@
       // aboutPanel
       // 
       this.aboutPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-      this.aboutPanel.BackColor = System.Drawing.SystemColors.Info;
+      this.aboutPanel.BackColor = System.Drawing.Color.WhiteSmoke;
       this.aboutPanel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+      this.aboutPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
       this.aboutPanel.Controls.Add(this.aboutDoneButton);
       this.aboutPanel.Controls.Add(this.textBox1);
       this.aboutPanel.Controls.Add(this.button2);
       this.aboutPanel.Location = new System.Drawing.Point(297, 30);
       this.aboutPanel.Name = "aboutPanel";
-      this.aboutPanel.Size = new System.Drawing.Size(329, 255);
+      this.aboutPanel.Size = new System.Drawing.Size(317, 255);
       this.aboutPanel.TabIndex = 7;
       // 
       // aboutDoneButton
       // 
       this.aboutDoneButton.BackColor = System.Drawing.Color.Transparent;
       this.aboutDoneButton.FlatStyle = System.Windows.Forms.FlatStyle.System;
-      this.aboutDoneButton.Location = new System.Drawing.Point(16, 215);
+      this.aboutDoneButton.Location = new System.Drawing.Point(3, 215);
       this.aboutDoneButton.Name = "aboutDoneButton";
-      this.aboutDoneButton.Size = new System.Drawing.Size(301, 33);
+      this.aboutDoneButton.Size = new System.Drawing.Size(307, 33);
       this.aboutDoneButton.TabIndex = 2;
-      this.aboutDoneButton.Text = "ok";
+      this.aboutDoneButton.Text = "OK";
       this.aboutDoneButton.UseVisualStyleBackColor = false;
       this.aboutDoneButton.Click += new System.EventHandler(this.aboutDoneButton_Click);
       // 
       // textBox1
       // 
-      this.textBox1.BackColor = System.Drawing.SystemColors.HighlightText;
+      this.textBox1.BackColor = System.Drawing.Color.WhiteSmoke;
+      this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
       this.textBox1.Location = new System.Drawing.Point(17, 47);
       this.textBox1.Multiline = true;
       this.textBox1.Name = "textBox1";
@@ -257,7 +259,7 @@
       // 
       this.theWord.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
       this.theWord.ForeColor = System.Drawing.SystemColors.Highlight;
-      this.theWord.Image = global::WindowsFormsApplication1.Properties.Resources.theWordIcon;
+      this.theWord.Image = global::WindowsFormsApplication1.Properties.Resources.kakatuya48px;
       this.theWord.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
       this.theWord.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
       this.theWord.Name = "theWord";
@@ -396,7 +398,7 @@
       this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
       this.Name = "Form1";
       this.Opacity = 0.97D;
-      this.Text = "কাকাতুয়া KAKATUYA Narrator";
+      this.Text = "Kakatuya Text Narrator";
       ((System.ComponentModel.ISupportInitialize)(this.volumeBar)).EndInit();
       ((System.ComponentModel.ISupportInitialize)(this.speedrateBar)).EndInit();
       this.aboutPanel.ResumeLayout(false);

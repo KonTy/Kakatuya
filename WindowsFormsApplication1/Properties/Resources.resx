@@ -118,152 +118,38 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="red_orb" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red_orb.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="noatun1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\noatun1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Play" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Button Play.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stop100" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\32_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sayer" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sayer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Resume" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\27_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Loader" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ajax-loader.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iPlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iPlay.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pause1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pause.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AlienBonzai1_1024jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AlienBonzai1_1024jpg.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pause" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\33_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TuneWiki" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TuneWiki.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="noatun" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\noatun.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Play100" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Play.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Play21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="forward" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\forward.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Play2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Play2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Pause" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\33_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="VNotes" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\VNotes.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_27_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\27_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="flashkard" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\flashkard.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="noatun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noatun.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="theWordIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\theWordIcon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paused_loader_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paused loader..png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Above_the_Horizen_1280x960" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Above_the_Horizen-1280x960.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ajax_loader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Loader" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ajax-loader.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AlienBonzai1_1024jpg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AlienBonzai1_1024jpg.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="archive_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\archive-24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Background02" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Background02.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="black_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\black&amp;white.jpeg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Books" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Books.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Stop___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Button_Play" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Button Play.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="document" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\document.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="err" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\err.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="errr" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\errr.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="noatun1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noatun1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="flashkard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\flashkard.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flashkard___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\flashkard - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="forward1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\forward.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="forward___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\forward - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Futublue_1_2560x1600" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Futublue_1-2560x1600.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="galacticHorizon0_1_0_1__Galactic_Horizon_Blue_Smudge_v1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\galacticHorizon0.1.0-1 (Galactic Horizon Blue Smudge v1).jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="galacticHorizon0_2_0__Galactic_Horizon_dancing_in_a_storm____Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\galacticHorizon0.2.0 (Galactic Horizon dancing in a storm) - Copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iPlay1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iPlay.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Kakatuya" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\theWordIcon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="kalyx_jukeBox" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kalyx jukeBox.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\loading.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="music24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\music24.tiff;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Narrating" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Narrating.tiff;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="narration_completed" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\narration completed.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="narration_completed_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\narration completed 2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="NarratLoadin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\NarratLoadin.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="narrator" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\narrator.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="noatun11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\noatun1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="noatun2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\noatun.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -271,14 +157,8 @@
   <data name="noatun___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\noatun - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pause2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pause.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="paused" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paused.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="paused_loader_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paused loader..png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Kakatuya" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\theWordIcon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pause___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pause - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -286,106 +166,133 @@
   <data name="Play1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Play.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Play11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Play1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sayer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sayer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Play21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Play2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="flashkard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flashkard.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Play___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Play - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="paused" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paused.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rarang0_82222i_02_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rarang0.82222i.02 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="archive_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\archive-24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rarang1_1_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rarang1.1 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="forward___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forward - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rarang2_0_proKhela" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rarang2.0 proKhela.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rarang2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rarang2.1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iPlay1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iPlay.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="rate_btn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rate btn.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="redd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Button Square.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="stopped" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stopped.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="red_orb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\red_orb.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sadh1_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sadh1 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Narrating" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Narrating.tiff;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sadh1_copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sadh1 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sadh1_copy11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sadh1 copy11.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sadh1_copy4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sadh1 copy4.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sayer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sayer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Search_and_Repair" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Search and Repair.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Search_and_Repair___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Search and Repair - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Settings.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Pause1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pause.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Stop1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Stop.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="stopped" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stopped.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stop___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="stting_rate" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stting rate.PNG;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Sueño_Liquido_2560x1600" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sueño_Liquido-2560x1600.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="NarratLoadin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NarratLoadin.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="the_sayer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\the sayer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TuneWiki1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TuneWiki.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sayer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sayer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="VNotes1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\VNotes.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="errr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\errr.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="vol_btn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vol btn.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ajax_loader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ajax-loader.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="write_something" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\write something.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Play___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_20000leaguesunderthesea1600" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\20000leaguesunderthesea1600.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_27_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\27_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_32_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\32_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Play11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_33_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\33_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_3d_291" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3d_291.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Stop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Play100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pause2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pause.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="noatun11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noatun1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flashkard___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flashkard - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="err" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\err.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Resume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\27_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Play2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Stop7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Stop7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forward1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forward.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="document" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\document.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stop100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_32_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="narrator" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\narrator.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="narration_completed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\narration completed.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\loading.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="narration_completed_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\narration completed 2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="write_something" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\write something.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="redd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Button Square.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Button Play.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iPlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iPlay.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_orb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_orb.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kakatuya48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kakatuya.48px.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
